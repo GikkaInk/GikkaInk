@@ -34,6 +34,32 @@ A lightweight open-source 2D game maker for Linux: draw a map, place your heroes
 
 > *The repo is private for now while I finish the foundation and the looks. It opens when there's something to show.* ♡
 
+## 🌙 now · next · later
+
+| | |
+|---|---|
+| ✦ **now** | building NestST (the foundation: project format, map editor) · learning Tauri and PixiJS along the way |
+| ✧ **next** | a playable "hero meets NPC" scene, then the AI picture studio |
+| ✦ **later** | opening the NestST repo to everyone · a story-driven showcase game with a big plot |
+
+## 📌 projects
+
+- 🪺 **NestST**: open-source 2D game maker for Linux *(private for now, opening when it's presentable)*
+- 🎨 **portfolio**: design works and cards in this style *(coming soon ♡)*
+- 🤖 **Discord bots**: the ones I wrote in TS/JS *(will add the ones I'm proud of)*
+
+## 🔗 find me
+
+GitHub: you're here ♡ · other places (portfolio, socials) *coming soon*
+
+## ✿ little checklist
+
+- [x] make the profile pretty
+- [x] pick a stack for NestST and measure it (Tauri it is)
+- [ ] first playable scene in NestST
+- [ ] open NestST to the world
+- [ ] ship a story that makes someone cry a little
+
 ## 🛠 what I code with
 
 - **Python**: solid, my everyday tool
