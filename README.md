@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Gikka Ink — designer × developer × creator. A cute anime girl hugging a penguin plush. Python, C++, TS/JS, Figma. Moscow, Russia." width="100%">
+<img src="banner-cute.png" alt="Gikka Ink — designer × developer × creator. A cute anime girl hugging a penguin plush. Python, C++, TS/JS, Figma. Moscow, Russia." width="100%">
 
 ### ✦ welcome to my little corner ✦
 
@@ -26,7 +26,7 @@ Years of anime and manhwa did not pass in vain: there's a whole lore in my head.
 
 <div align="center">
 
-<img src="nestst.png" alt="NestST — a lightweight open-source 2D game maker for Linux, with a baby bird mascot in a nest. TypeScript, PixiJS, Tauri, MIT. Private for now, coming soon." width="100%">
+<img src="nestst-cute.png" alt="NestST — a lightweight open-source 2D game maker for Linux, with a baby bird mascot in a nest. TypeScript, PixiJS, Tauri, MIT. Private for now, coming soon." width="100%">
 
 </div>
 
