@@ -1,41 +1,41 @@
 <div align="center">
 
 # ✦ Gikka Ink ✦
-### 物語 · monogatari · истории, которые хочется прожить
+### 物語 · monogatari · stories worth living through
 
-*дизайнер · ночной житель экрана · читатель манхв и аниме-архиватор*
+*designer · night-owl of the screen · manga & anime archivist*
 
 </div>
 
 ---
 
-## 🌸 Кто тут
+## 🌸 Who's here
 
-Дизайнер. Мой дом: полутёмная комната, Figma, вкладки с нейронками и аниме на фоне. Продуктивность врубается ближе к ночи, так что пишу коммиты, когда нормальные люди спят.
+Designer. My habitat: a dimly lit room, Figma, tabs full of neural nets and anime running in the background. My productivity switches on around midnight, so I push commits while normal people sleep.
 
-Не люблю делать сложно, если можно красиво и быстро: взял ассет, нагнул нейронку, докрутил в Figma, накинул блюр, и готово. Люблю хром, неон и плотный композ. Могу час зависать на одной детали, потому что «выглядит дёшево».
+I hate making things hard when they can be pretty and fast: grab an asset, bend an AI to my will, polish it in Figma, add a blur, done. I love chrome, neon and dense compositing. I can stare at one detail for an hour because "it looks cheap".
 
-Годы аниме и манхв не прошли даром: у меня в голове уже целый лор. Когда-нибудь он превратится в свою вселенную (да, большую). Пока строю для неё инструменты.
+Years of anime and manhwa did not pass in vain: there's a whole lore in my head. One day it'll become a universe of its own (yes, a big one). For now I'm building the tools for it.
 
-## 🪺 Сейчас делаю: **NestST** (巣 · «гнездо»)
+## 🪺 Currently building: **NestST** (巣 · "nest")
 
-Лёгкий открытый конструктор 2D-игр для Linux. Рисуешь карту, ставишь героев, пишешь диалоги с ветвлением, и у тебя игра. Без кода. ИИ помогает с картинками, но рулишь всем ты.
+A lightweight open-source 2D game maker for Linux. Draw a map, place your heroes, write branching dialogue, and you have a game. No code. AI helps with pictures, but you run the show.
 
-> *Репа пока закрыта: добиваю фундамент и красоту. Открою, когда будет что показать.*
+> *The repo is private for now: I'm finishing the foundation and the looks. It opens when there's something to show.*
 
-- 🧱 под капотом: TypeScript · PixiJS · Tauri
-- 🎨 интерфейс: тёплый и мягкий, «уютная комната вечером» + чуть хрома
-- 📖 игры и истории принадлежат тебе, лицензия MIT
+- 🧱 under the hood: TypeScript · PixiJS · Tauri
+- 🎨 interface: warm and soft, "cozy room in the evening" with a touch of chrome
+- 📖 your games and stories belong to you, MIT license
 
-## ✧ Мой стек вайба
+## ✧ My vibe stack
 
-`Figma` · `нейронки` · `аниме-райс` · `канджи на каждом углу` · `Arch/CachyOS` · `дизайн-системы`
+`Figma` · `neural nets` · `anime rice` · `kanji on every corner` · `Arch/CachyOS` · `design systems`
 
 ---
 
 <div align="center">
 
-*«У каждого есть история. Просто не у каждого есть инструмент.»*
+*"Everyone has a story. Not everyone has a tool."*
 ✦ 2026 ✦
 
 </div>
