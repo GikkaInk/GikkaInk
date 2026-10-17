@@ -1,6 +1,8 @@
 <div align="center">
+  
+<img src="trio.png" alt="Three sticker cards: Linux enjoyer with Python (girl hugging a penguin plush), C++ in shy mode (girl hiding behind a book), Design plus bots (girl with a drawing tablet and headphones)." width="100%">
 
-<img src="banner.png" alt="Gikka Ink — designer × developer × creator. A cute anime girl hugging a penguin plush. Python, C++, TS/JS, Figma. Moscow, Russia." width="100%">
+<img src="about.png" alt="About me: Gikka Ink, designer × developer, lives in Moscow Russia, studies graphic design, codes in Python, C++, TS/JS, built lots of Discord bots, loves anime, manhwa and Linux rice." width="100%">
 
 ### ✦ welcome to my little corner ✦
 
@@ -16,17 +18,12 @@ Years of anime and manhwa did not pass in vain: there's a whole lore in my head.
 
 <div align="center">
 
-<img src="trio.png" alt="Three sticker cards: Linux enjoyer with Python (girl hugging a penguin plush), C++ in shy mode (girl hiding behind a book), Design plus bots (girl with a drawing tablet and headphones)." width="100%">
-
-<img src="about.png" alt="About me: Gikka Ink, designer × developer, lives in Moscow Russia, studies graphic design, codes in Python, C++, TS/JS, built lots of Discord bots, loves anime, manhwa and Linux rice." width="100%">
 
 </div>
 
 ## 🪺 currently building
 
 <div align="center">
-
-<img src="nestst.png" alt="NestST — a lightweight open-source 2D game maker for Linux, with a baby bird mascot in a nest. TypeScript, PixiJS, Tauri, MIT. Private for now, coming soon." width="100%">
 
 </div>
 
