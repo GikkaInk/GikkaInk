@@ -3,7 +3,7 @@
 # ✦ Gikka Ink ✦
 ### 物語 · monogatari · stories worth living through
 
-*designer · night-owl of the screen · manga & anime archivist*
+*designer × developer · creator · manga & anime archivist*
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🌸 Who's here
 
-Designer. My habitat: a dimly lit room, Figma, tabs full of neural nets and anime running in the background. My productivity switches on around midnight, so I push commits while normal people sleep.
+Designer **and** programmer: I draw the interface and I write the code behind it. My habitat: a dimly lit room, Figma, an editor full of code, tabs of neural nets and anime running in the background. My productivity switches on around midnight, so I push commits while normal people sleep.
 
 I hate making things hard when they can be pretty and fast: grab an asset, bend an AI to my will, polish it in Figma, add a blur, done. I love chrome, neon and dense compositing. I can stare at one detail for an hour because "it looks cheap".
 
@@ -27,9 +27,16 @@ A lightweight open-source 2D game maker for Linux. Draw a map, place your heroes
 - 🎨 interface: warm and soft, "cozy room in the evening" with a touch of chrome
 - 📖 your games and stories belong to you, MIT license
 
+## 🛠 What I code with
+
+- **Python**: solid, my everyday tool
+- **C++**: comfortable with it
+- **TypeScript / JavaScript**: I've written a lot of Discord bots
+- **Design**: Figma, design systems, interfaces, chrome-and-neon visuals
+
 ## ✧ My vibe stack
 
-`Figma` · `neural nets` · `anime rice` · `kanji on every corner` · `Arch/CachyOS` · `design systems`
+`Figma` · `Python` · `C++` · `TypeScript` · `neural nets` · `anime rice` · `kanji on every corner` · `Arch/CachyOS` · `design systems`
 
 ---
 
