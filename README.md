@@ -26,25 +26,25 @@ Years of anime and manhwa did not pass in vain: there's a whole lore in my head.
 
 <div align="center">
 
-<img src="nestst-cute.png" alt="NestST — a lightweight open-source 2D game maker for Linux, with a baby bird mascot in a nest. TypeScript, PixiJS, Tauri, MIT. Private for now, coming soon." width="100%">
+<img src="nestst-cute.png" alt="NestST — a lightweight open-source 2D game maker for Linux, with a baby bird mascot in a nest. TypeScript, PixiJS, Tauri, MIT. Now open source." width="100%">
 
 </div>
 
 A lightweight open-source 2D game maker for Linux: draw a map, place your heroes, write branching dialogue, and you have a game. No code. AI helps with pictures, but you run the show.
 
-> *The repo is private for now while I finish the foundation and the looks. It opens when there's something to show.* ♡
+> *The repo is open now!* The first map editor (M1) works, and there's a little example island to explore: [GikkaInk/NestST](https://github.com/GikkaInk/NestST) ♡
 
 ## 🌙 now · next · later
 
 | | |
 |---|---|
-| ✦ **now** | building NestST (the foundation: project format, map editor) · learning Tauri and PixiJS along the way |
+| ✦ **now** | building NestST (the map editor is done, now events and dialogue) · learning Tauri and PixiJS along the way |
 | ✧ **next** | a playable "hero meets NPC" scene, then the AI picture studio |
-| ✦ **later** | opening the NestST repo to everyone · a story-driven showcase game with a big plot |
+| ✦ **later** | a story-driven showcase game with a big plot |
 
 ## 📌 projects
 
-- 🪺 **NestST**: open-source 2D game maker for Linux *(private for now, opening when it's presentable)*
+- 🪺 **NestST**: open-source 2D game maker for Linux *(open now, early days: map editor works, stars and feedback welcome ♡)*
 - 🎨 **portfolio**: design works and cards in this style *(coming soon ♡)*
 - 🤖 **Discord bots**: the ones I wrote in TS/JS *(will add the ones I'm proud of)*
 
